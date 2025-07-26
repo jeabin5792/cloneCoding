@@ -147,8 +147,9 @@ main img{
 .body-button{
   margin: 5px;
   border-radius: 5px;
-  height: 40px;
+  height: 50px;
   border: 1px solid rgb(179, 179, 179);
+  font-size: 18px;
 }
 
 
